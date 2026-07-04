@@ -81,4 +81,5 @@ GitHub Repository:
 ---
 
 ## Author
+Muhammad Yoosha Bin Noon
 Developed as an Applied Physics project.
